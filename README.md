@@ -73,13 +73,9 @@ To choose one, paper, go here: [this google spreadhseet](https://docs.google.com
 
 ### Session 1 -- lab session -- WTP in a social context
 
--   Experimental software and interface: <https://gaelexperience.fr> then blue button then insert an integer 1-12
+-   Experimental software and interface: <https://gaelexperience.fr> then blue button then insert an integer 1-18
 
 -   Statistical software: anything, but I'll use R
-
--   the Dan Ariely and Francesca Gino scandal: [**New Yorker article**](https://www.newyorker.com/magazine/2023/10/09/they-studied-dishonesty-was-their-work-a-lie)
-
--   the Diedrick Stapel scandal: [**New York Times article**](https://www.nytimes.com/2013/04/28/magazine/diederik-stapels-audacious-academic-fraud.html)
 
 ### Session 2
 
