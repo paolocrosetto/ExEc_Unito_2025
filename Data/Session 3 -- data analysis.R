@@ -309,7 +309,7 @@ dfr %>%
 # payment time!
 df %>% 
   select(nickname, bret) %>% 
-  mutate(bret = if_else(bret >= 66, 0, bret)) %>% 
+  mutate(bret = if_else(bret >= 52, 0, bret)) %>% 
   arrange(-bret) %>% 
-  top_n(3)
+  top_n(2)
 
