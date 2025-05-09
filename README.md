@@ -22,7 +22,7 @@ Exam rules are available in the Exam section of the github repo -- [here](Exam/E
 To choose one, paper, go here: [this google spreadhseet](https://docs.google.com/spreadsheets/d/1zK3xTGV_x3L0dNFsaICpJPAo8NGRS0XFOrhBMQ_QXY8/edit?usp=sharing) and mark your name beside one of the papers. First come, first served, and you manage eventual conflicts among yourselves. Just one rule: \\textit{no duplicates}. Once a paper has been assigned, it's over and you have to choose another.
 
 | **ID** | **Paper** | **Domain** |
-|:--:|----|----|
+|:----------------------:|------------------------|------------------------|
 | 1 | Andor et al EU label.pdf | Electricity |
 | 2 | Noussair et al fishing.pdf | Common Pool Resources |
 | 3 | Noussair et al GMO.pdf | Food |
@@ -110,3 +110,7 @@ Experimental software: <https://gaelexperience.fr/>
 Experiment 1: click on the GREEN button "Diet Building Turin Showcase 2024"
 
 Experiment 2: click on the BLUE button then wait for instructions.
+
+##### Session 4 -- exam exercise
+
+Experimental software: VeconLab <https://veconlab.econ.virginia.edu> (session: pcro10)
